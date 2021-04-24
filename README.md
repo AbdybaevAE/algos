@@ -1,3 +1,3 @@
 # Algorithms and Data structures
 ## List:
-- [KMP](/algos/kmp.java) 
+- [KMP](https://github.com/AbdybaevAE/algos/blob/main/algos/Kmp.java) 
